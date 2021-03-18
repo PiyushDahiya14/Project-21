@@ -1,2 +1,2 @@
-# Project-21
-it is a bullet fire test game
+# p5.play-boilerplate
+Boiler plate for p5.play
